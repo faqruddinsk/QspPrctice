@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-17T11:26:35 IST" name="Default suite" finished-at="2022-09-17T11:26:36 IST" duration-ms="75">
+  <suite started-at="2022-09-17T11:38:02 IST" name="Default suite" finished-at="2022-09-17T11:38:02 IST" duration-ms="65">
     <groups>
     </groups>
-    <test started-at="2022-09-17T11:26:35 IST" name="Default test" finished-at="2022-09-17T11:26:36 IST" duration-ms="75">
+    <test started-at="2022-09-17T11:38:02 IST" name="Default test" finished-at="2022-09-17T11:38:02 IST" duration-ms="65">
       <class name="Addtocart.ProductAddTocart">
-        <test-method signature="addProduct()[pri:0, instance:Addtocart.ProductAddTocart@460d0a57]" started-at="2022-09-17T11:26:36 IST" name="addProduct" finished-at="2022-09-17T11:26:36 IST" duration-ms="14" status="PASS">
+        <test-method signature="addProduct()[pri:0, instance:Addtocart.ProductAddTocart@460d0a57]" started-at="2022-09-17T11:38:02 IST" name="addProduct" finished-at="2022-09-17T11:38:02 IST" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addProduct -->
